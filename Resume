@@ -1,0 +1,111 @@
+CURRICULUM VITAE
+SHIVASUNDAR D K Email: shivasundark@gmail.com
+Mobile: +91-8553702697
+CAREER OBJECTIVE
+To obtain a challenging position in the competitive environment, where in my knowledge,
+skills, potential & motivation can be utilized to implement given duties / responsibilities to
+meet deadlines and the desired objectives of the organization / establishment.
+PROFESSIONAL SUMMARY
+● Having around 3.4+ years of experience as AWS Devops Engineer.
+● Experience in AWS Cloud and Devops Tools.
+● Good hands on experience on AWS Infrastructure and its services like IAM, VPC, EC2,
+EBS, S3, ALB, NACL, Security Groups, Auto Scaling, RDS, SNS, EFS, Cloudwatch,
+Cloudfront, Terraform
+● Good hands on experience on IAC tool like Terraform, Cloudformation
+● Good Experience on source code management tool Git, Github and source control
+management concepts like Branches, Merges.
+● Worked with multiple teams in automating CI&CD pipeline using Jenkins tools.
+● Administration of Jenkins server- Includes Setup of Jenkins, parameterized builds and
+Deployment automation.
+● Good hands on experience in Configuration Management tool like Ansible.
+● Good hands on experience in creating Jenkins jobs, plug-in installations, setting up
+distributed builds concept and other Jenkins administration activities.
+● Good hand on experience in managing microservices application using docker and
+kubernetes
+● Having experience in creating custom DockerImages using Dockerfile and pushing
+DockerImages to DockerHub.
+● Setting up Kubernetes Cluster using EKS and Kubeadm.
+● Writing manifest files to create deployments and services for micro service
+applications.
+● Configuring Persistent volumes (PVs), PVCs for persistent database environments.
+● Managed Deployment, ReplicationSet, StatefullSet, Services, AutoScaling for
+Kubernetes Clusters.
+● Worked on ELK for Log Aggregation and Log monitoring
+● Monitoring the deployments in all the environments, debugging deployment issuesand
+resolves the same in timely manner reducing the downtime.
+TECHNICAL KNOWLEDGE
+Operating Systems: Linux, Cent OS, Ubuntu and Windows.
+AWS (Cloud): EC2, VPC, S3, EBS, IAM, Load balancing, Autoscaling, Terraform,
+Cloudformation, Cloudwatch, Cloudfront, SNS, EFS, Route-53
+DevOps Tools: Git, Ansible, Chef, Docker, Jenkins, Kubernetes
+Scripting Languages : Shell, Python
+WORK EXPERIENCE
+Company name: kyndrylsolutions private limited
+Designation: AWS Devops Enginner
+Project Name: IMC
+Period: From April 2023 to till date
+ROLES AND RESPONSIBILITIES
+● Responsible for creating the complete AWS Infrastructure and its services like like
+IAM, VPC, EC2, EKS, EBS, S3, ALB, NACL, Security Groups, Auto Scaling,
+RDS, SNS, EFS, Cloudwatch, Cloudfront, Terraform
+● Designed highly available, cost effective and fault tolerant systems using multiple EC2
+instances, Auto Scaling, Elastic Load Balancer and AMIs.
+● Configured S3 buckets with various life cycle policies to archive the infrequently
+accessed data to Storage classes based on requirement.
+● Creating alarms in Cloud Watch service for monitoring the server performance, CPU
+Utilization, disk usage.
+● Responsible for branching, merging and resolving various conflicts arising in GIT.
+● Setup/Created CI/CD pipeline in Jenkins and scheduling a job
+● Involved in writing DockerFile to build customized DockerImage for creating
+ Docker Container and pushing DockerImage to DockerHub.
+● Creating and managed multiple containers using Kubernetes. And creating
+deployments using Yaml code.
+Company name: Excelsoft Technologies Pvt Ltd, Mysore
+Designation: Devops Engineer
+Project Name: MOE (Ministry of Education)
+Period: From April 2021 to January 2023
+ROLES AND RESPONSIBILITIES
+● Responsible for designing and deploying best SCM processes and procedures.
+● Responsible for branching, merging and resolving various conflicts arising in GIT.
+● Setup/Created CI/CD pipeline in Jenkins and scheduling a job.
+● Established complete Jenkins CI-CD pipeline and complete workflow of build and
+delivery pipelines.
+● Involved in writing DockerFile to build customized DockerImage for creating
+● Docker Container and pushing DockerImage to DockerHub.
+● Creating and managed multiple containers using Kubernetes. And creating
+deployments using Yaml code.
+● Used Kubernetes to Orchestrate the deployment, scaling and management of docker
+container.
+● Experience with monitoring tools like Prometheus and Grafana.
+● Responsible to establish complete pipeline work flow starting from pulling source
+code from git repository till deploying end product into kubernetes cluster.
+Company name: GMS Solution PVT LTD.
+Designation: AWS Enginner
+Project Name: K12 Project
+Period: From Feb 2020 to March 2021
+ ROLES AND RESPONSIBILITIES 
+● Responsible for Monitoring Jenkins nightly build job.
+● Responsible for branching, merging and resolving various conflicts arising in GIT.
+● Responsible for Set up of CI/CD Setup.
+● Responsible for Monitoring Zabbix.
+QUALIFICATION SUMMARY
+COURSE SCHOOL /
+COLLEGE
+BOARD /
+UNIVERSITY
+PERCENTAGE YEAR OF
+PASSING
+BE STJIT College
+Ranebennur
+VTU CGPA: 7 2015-19
+PUC RTES College Central board 82 2015
+SSLC REMS School state board 81 2013
+PERSONAL DETAILS
+Date of Birth : 01-03-1997
+Nationality : Indian
+Languages Known : English, Kannada, Hindi and Marathi
+Declaration:
+I hereby solemnly declare that all the statements made in the above application are true to
+the best of my knowledge.
+Place: Bangalore Signature:
+Shivasundar
